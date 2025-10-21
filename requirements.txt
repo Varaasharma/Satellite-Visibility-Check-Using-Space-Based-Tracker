@@ -1,0 +1,5 @@
+numpy
+sgp4
+astropy
+poliastro
+matplotlib
