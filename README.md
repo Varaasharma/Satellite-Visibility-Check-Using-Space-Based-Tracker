@@ -5,7 +5,7 @@ This repository contains the implementation for simulating satellite visibility 
 ---
 
 ## Files
-- **Digantara - MDE Assignment (Q1).ipynb** — Main Jupyter Notebook containing code and results.  
+- **Satellite_Visibility_Analysis.ipynb** — Main Jupyter Notebook containing code and results.  
 - **requirements.txt** — List of Python dependencies.
 
 ---
