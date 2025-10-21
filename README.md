@@ -15,7 +15,7 @@ This repository contains the implementation for simulating satellite visibility 
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
-3. Digantara - MDE Assignment (Q1).ipynb
+3. Satellite_Visibility_Analysis.ipynb
 4. Open the notebook in JupyterLab or Jupyter Notebook.
 
 ---
