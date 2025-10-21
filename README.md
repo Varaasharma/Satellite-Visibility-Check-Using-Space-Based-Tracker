@@ -1,5 +1,7 @@
 # Satellite Visibility Check Using Space-Based Tracker
 
+This notebook was developed as part of the Mission Design Engineer assessment provided by Digantara.
+
 This repository contains the implementation for simulating satellite visibility from a space-based tracker. The notebook performs orbital propagation, field-of-view calculations, sunlight and range filtering, and identifies entry/exit visibility events over a 24-hour period.
 
 ---
